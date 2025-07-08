@@ -1,0 +1,14 @@
+node-product-service/node_modules/
+node-product-service/.env
+node-product-service/package-lock.json
+node-product-service/dist/
+
+php-order-service/vendor/
+php-order-service/.env
+php-order-service/composer.lock
+
+.env
+*.log
+.idea/
+.vscode/
+*.tmp
